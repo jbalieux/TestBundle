@@ -1,0 +1,12 @@
+{
+    "name": "jbalieux/test-bundle",
+    "description": "Useful extensions",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jerome BALIEUX",
+            "email": "j.balieux@senapi.fr"
+        }
+    ]
+}
